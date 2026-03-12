@@ -143,7 +143,7 @@ const defaultSlideExtractionConfig: SlideExtractionConfig = {
 };
 
 const defaultAIFilteringConfig: AIFilteringConfig = {
-  serviceType: 'builtin',
+  serviceType: 'custom',
   customApiBaseUrl: '',
   customApiKey: '',
   customModelName: '',
