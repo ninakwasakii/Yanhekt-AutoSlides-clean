@@ -70,7 +70,7 @@ interface ChatCompletionResponse {
 }
 
 // Built-in service configuration
-const BUILTIN_API_BASE_URL = 'https://openai.ruc.edu.kg';
+const BUILTIN_API_BASE_URL = '';
 const BUILTIN_FALLBACK_MODEL = 'gpt-4.1';
 
 export class AIFilteringService {
